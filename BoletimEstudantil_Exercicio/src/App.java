@@ -1,7 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         int mediaFinal = 7;
-         
         if (mediaFinal < 6)
             System.out.println("REPROVADO");
         else if (mediaFinal == 6)
