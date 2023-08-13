@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class App {
+public class Grao_xadres {
     public static void main(String[] args) throws Exception {
         int quadro = 64;
         BigDecimal dois = new BigDecimal(2);
