@@ -19,7 +19,7 @@ public class Main {
                     String curso = JOptionPane.showInputDialog("Curso:");
 
                     if (tipoAluno == 1) {
-                        String anoConclusaoEnsinoMedio = JOptionPane.showInputDialog("Ano de Conclusão do Ensino Médio:");
+                        String anoConclusaoEnsinoMedio = JOptionPane.showInputDialog("Ano de Conclusão do Ensino Médio: ");
                         double ac1 = Double.parseDouble(JOptionPane.showInputDialog("AC1:"));
                         double ac2 = Double.parseDouble(JOptionPane.showInputDialog("AC2:"));
                         double af = Double.parseDouble(JOptionPane.showInputDialog("AF:"));
